@@ -1,0 +1,28 @@
+{
+    "sources": [
+        {
+            "name": "arduino_esp32",
+            "repo": "https://github.com/espressif/arduino-esp32",
+            "version": "1.0.4",
+            "postRestore": {
+                "shell": "./get.py",
+                "cwd": "./tools"
+            }
+        },
+        {
+            "name": "RFM69",
+            "repo": "https://github.com/LowPowerLab/RFM69",
+            "version": "1.4.0"
+        },
+        {
+            "name": "ArduinoJson",
+            "repo": "https://github.com/bblanchon/ArduinoJson",
+            "version": "v6.13.0"
+        },
+        {
+            "name": "makeEspArduino",
+            "repo": "https://github.com/plerup/makeEspArduino",
+            "version": "6.2.0"
+        }
+    ]
+}

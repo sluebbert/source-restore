@@ -1,0 +1,34 @@
+{
+    "sources": [
+        {
+            "name": "SPI",
+            "repo": "https://github.com/PaulStoffregen/SPI",
+            "version": "cdcfd340581f1516cfac897bb4fafebe7c188b8d"
+        },
+        {
+            "name": "EEPROM",
+            "repo": "https://github.com/PaulStoffregen/EEPROM",
+            "version": "bb16a70e9eca6267aa8a43eefc0034e5967f30c8"
+        },
+        {
+            "name": "LowPower",
+            "repo": "https://github.com/rocketscream/Low-Power",
+            "version": "V1.8"
+        },
+        {
+            "name": "arduino_makefile",
+            "repo": "https://github.com/sudar/Arduino-Makefile",
+            "version": "e870443f4824cbbcd560f500c6072012dd668f62"
+        },
+        {
+            "name": "arduino",
+            "repo": "https://github.com/arduino/Arduino",
+            "version": "1.8.8"
+        },
+        {
+            "name": "ArduinoCore-avr",
+            "repo": "https://github.com/arduino/ArduinoCore-avr",
+            "version": "1.6.21"
+        }
+    ]
+}
